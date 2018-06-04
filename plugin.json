@@ -1,0 +1,14 @@
+{
+	"plugin": {
+		"name": "keyja",
+		"type": ["ui"],
+		"api": "python2",
+		"description": "Assemble using keystone engine.",
+		"longdescription": "TODO",
+		"license": {
+			"name": "MIT"
+		},
+		"version": "0.0.1",
+		"author": "Benedikt Schmotzle"
+	}
+}
